@@ -59,4 +59,4 @@ jobs:
         with:
           context: ./backend/
           push: true
-          tags: ваш-логин-на-docker-hub/taski_backend:latest
+          tags: greenvibe/taski_backend:latest
